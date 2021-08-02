@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0
+}
+
+.head-section {
+  background-image: url(../img/img_01.png);
+}
+
+.fs20 {
+  font-size: 20px;
+}
+
+.fs18 {
+  font-size: 18px;
+}
+
+.fs16 {
+  font-size: 16px;
+}
+
+.fs14 {
+  font-size: 14px;
+}
+
+.fs13 {
+  font-size: 13px;
+}
+
+.fs12 {
+  font-size: 12px;
+}
+
+/*字体颜色*/
+
+.C000000 {
+  color: #000000;
+}
+
+.C333333 {
+  color: #333333;
+}
+
+.C666666 {
+  color: #666666;
+}
+
+.C999999 {
+  color: #999999;
+}
+
+.Ce42f46 {
+  color: #e42f46;
+}
+
+.Cffffff {
+  color: #ffffff;
+}
+
+.C32a9f2 {
+  color: #32a9f2;
+}
+
+.border {
+  border: .01rem solid #dedddd;
+}
+
+.borderT {
+  border-top: .01rem solid #dedddd;
+}
+
+.borderB {
+  border-bottom: .01rem solid #dedddd;
+}
+
+
+.textAL {
+  text-align: left;
+}
